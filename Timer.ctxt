@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Timer
+comment0.text=\r\n\ Code\ des\ TIMERs\ hat\ ursprung\ bei\ Lukas\ Berner,\ da\ ich\ mich\ damit\ schwer\ getan\ habe.\r\n
+comment1.params=_interval
+comment1.target=Timer(long)
+comment2.params=_interval
+comment2.target=void\ init(long)
+comment3.params=
+comment3.target=boolean\ checkTime()
+numComments=4
